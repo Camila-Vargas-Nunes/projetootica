@@ -1,0 +1,17 @@
+/* Footer CSS */
+
+footer {
+    background-color: #030303;
+    padding: 20px;
+}
+
+footer p {
+    color: #adadad;
+    text-align: center;
+}
+
+@media screen and (max-width: 550px) {
+    footer p {
+        font-size: 14px;
+    }
+}
